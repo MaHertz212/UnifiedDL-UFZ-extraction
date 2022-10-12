@@ -1,5 +1,7 @@
 '''
-This file is the model in "A Unified Deep Learning Framework for Urban Functional Zone Extraction Based on Multi-source Heterogeneous Data"
+This file is the model in "A Unified Deep Learning
+Framework for Urban Functional Zone Extraction
+Based on Multi-source Heterogeneous Data"
 '''
 import torch.nn as nn
 from torchvision import models
